@@ -1,0 +1,15 @@
+This project provides an easy way to use the most common machine learning methods available as different python packages both 
+from command line and a GUI interface. It uses pandas as a framewrok at the back and wxPython as a framework for the GUI 
+interfaces. 
+
+The intention of this project was to create it as a standalone desktop application which can be used for preliminary data 
+analysis, validation and experimentation on a small size sample set. It provides the flexibility of using various different
+algorithms on a data set and visualizing there results. The project has the capability to be scaled up to use on a large data 
+sets. 
+
+A much enhanced and sophosticated versions of the concept are available in the market in the form of products such as Datameer
+H2O etc which can be obtained at a price for a commercial purpose. 
+
+The intention behind making this open source is so that it can be picked up and modified by inidividual users primarily 
+in the research field and by people dealing with small size data sets. 
+

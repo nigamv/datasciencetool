@@ -30,7 +30,9 @@ class ImplementMethods:
             predictions = []
             models = []
 
-            print "File Created"
+            print "------------------------------------------------------------------------------------"
+            print " Result File Created at results/Prudential/algorithms_results.csv "
+            print "------------------------------------------------------------------------------------"
             for name in model_sequence:
                 algo_name = name.split(':')
                 print algo_name
